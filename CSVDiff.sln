@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVDiff", "CSVDiff\CSVDiff.csproj", "{A52B51EB-8156-4353-9579-6C97B30F12CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52B51EB-8156-4353-9579-6C97B30F12CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52B51EB-8156-4353-9579-6C97B30F12CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52B51EB-8156-4353-9579-6C97B30F12CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52B51EB-8156-4353-9579-6C97B30F12CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBEE8114-8673-4C37-882D-CBD614049A4C}
+	EndGlobalSection
+EndGlobal
